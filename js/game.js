@@ -2,6 +2,7 @@ var _size = 3;
 var _w_h = 420;
 var _step = _w_h/_size;
 
+
 //Game
 function Game(id){
     this.element = document.getElementById(id);
